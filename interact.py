@@ -171,7 +171,7 @@ def engage_with_users(users_filepath, users_to_engage_with, last_users):
         print(f"engaged with {num_of_users - i} users")
 
 filename_to_export = "followers.csv"
-username_to_scrape = "melimtx"
+username_to_scrape = "username of ig user in your nieche"
 follower_to_scrape = 500
 #export_followers(username_to_scrape, follower_to_scrape, 1, filename_to_export) #write followers and their data to csv file
 print()
